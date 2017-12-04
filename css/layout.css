@@ -1,0 +1,46 @@
+.mt-10{
+    margin-top:10px; 
+}
+
+.mr-10{
+    margin-right:10px; 
+}
+
+.pd-10{
+    padding: 10px;
+}
+
+.headerTable{
+    background-color: darkgoldenrod;
+    text-align: left;
+    color: blue;
+
+}
+
+.info-user{
+    background-color: lightslategrey;
+    text-align: right;
+    color: white;
+}
+
+.btn-default{
+    color: white;
+    background-color: black;
+}
+
+.e_mail{
+    font-size: 11px;
+}
+/*.even{
+  background-color: blue;
+  color: white;
+}*/
+/*.row-table :nth-child(even){
+  background-color: blue;
+  color: white;
+}
+
+.row-table :nth-child(odd){
+  background-color: darkblue;
+  color: white;
+}*/
