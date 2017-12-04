@@ -1,0 +1,1 @@
+var listEnterprise=function(callback){},insertEnterprise=function(callback){},updateEnterprise=function(callback){},retireEnterprise=function(callback){},deleteEnterprise=function(callback){},restoreEnterprise=function(callback){};$(document).ready(function(){listEnterprise(function(json){})});
